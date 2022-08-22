@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo HTML</title> 
+</head>
+<body>
+    
+</body>
+<h1>TITULO 1</h1>
+<h2>Titulo 3</h2>
+<h3>Titulo 4</h3>
+<h4>Titulo 5</h4>
+<h5>Titulo 6</h5>
+<strong><p>HOLA SOY YURIS RIVERO</p></strong>
+<hr>
+<!--COMENTARIOS-->
+<img src="annia.jpg" style="width: 40%;">
+<br>
+<a href="https://wall.alphacoders.com/tag/anya-forger-wallpapers?lang=Spanish" target="blank">imagenes de Annia</a>
+<hr>
+<ol>
+<li>listas ordenadas 1 </li>
+<li>listas ordenadas 2</li>
+
+</ol>
+<ul>
+
+    <li> Sebastian Alvarez</li>
+    <li> Eder Alvarez</li>
+</ul>
+</body>
+</html>
